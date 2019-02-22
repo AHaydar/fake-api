@@ -1,24 +1,29 @@
 {
-    "books": [
-        {
-            "id": 1,
-            "title": "Harry Potter and the Philosopher's Stone",
-            "Author": "J.K. Rowling"
-        },
-        {
-            "id": 2,
-            "title": "Harry Potter and the Chamber of Secrets",
-            "Author": "J.K. Rowling"
-        },
-        {
-            "id": 3,
-            "title": "Harry Potter and the Prizoner of Azkaban",
-            "Author": "J.K. Rowling"
-        },
-        {
-            "id": 4,
-            "title": "Thinking, Fast and Slow",
-            "Author": "Daniel Kahneman"
-        }
-    ]
+  "books": [
+    {
+      "id": 1,
+      "title": "Harry Potter and the Philosopher's Stone",
+      "Author": "J.K. Rowling"
+    },
+    {
+      "id": 2,
+      "title": "Harry Potter and the Chamber of Secrets",
+      "Author": "J.K. Rowling"
+    },
+    {
+      "id": 3,
+      "title": "Harry Potter and the Prizoner of Azkaban",
+      "Author": "J.K. Rowling"
+    },
+    {
+      "id": 4,
+      "title": "Thinking, Fast and Slow",
+      "Author": "Daniel Kahneman"
+    },
+    {
+      "id": 5,
+      "title": "My New Book",
+      "author": "Cool Author"
+    }
+  ]
 }
